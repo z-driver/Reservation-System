@@ -1,0 +1,16 @@
+D:\@华师\！课程\！专选\C#\Reservation-System\bin\Debug\net5.0\Reservation-System.exe
+D:\@华师\！课程\！专选\C#\Reservation-System\bin\Debug\net5.0\Reservation-System.deps.json
+D:\@华师\！课程\！专选\C#\Reservation-System\bin\Debug\net5.0\Reservation-System.runtimeconfig.json
+D:\@华师\！课程\！专选\C#\Reservation-System\bin\Debug\net5.0\Reservation-System.runtimeconfig.dev.json
+D:\@华师\！课程\！专选\C#\Reservation-System\bin\Debug\net5.0\Reservation-System.dll
+D:\@华师\！课程\！专选\C#\Reservation-System\bin\Debug\net5.0\ref\Reservation-System.dll
+D:\@华师\！课程\！专选\C#\Reservation-System\bin\Debug\net5.0\Reservation-System.pdb
+D:\@华师\！课程\！专选\C#\Reservation-System\obj\Debug\net5.0\Reservation-System.csprojAssemblyReference.cache
+D:\@华师\！课程\！专选\C#\Reservation-System\obj\Debug\net5.0\Reservation-System.GeneratedMSBuildEditorConfig.editorconfig
+D:\@华师\！课程\！专选\C#\Reservation-System\obj\Debug\net5.0\Reservation-System.AssemblyInfoInputs.cache
+D:\@华师\！课程\！专选\C#\Reservation-System\obj\Debug\net5.0\Reservation-System.AssemblyInfo.cs
+D:\@华师\！课程\！专选\C#\Reservation-System\obj\Debug\net5.0\Reservation-System.csproj.CoreCompileInputs.cache
+D:\@华师\！课程\！专选\C#\Reservation-System\obj\Debug\net5.0\Reservation-System.dll
+D:\@华师\！课程\！专选\C#\Reservation-System\obj\Debug\net5.0\ref\Reservation-System.dll
+D:\@华师\！课程\！专选\C#\Reservation-System\obj\Debug\net5.0\Reservation-System.pdb
+D:\@华师\！课程\！专选\C#\Reservation-System\obj\Debug\net5.0\Reservation-System.genruntimeconfig.cache

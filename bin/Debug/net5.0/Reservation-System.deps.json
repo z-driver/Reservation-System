@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Reservation-System/1.0.0": {
+        "runtime": {
+          "Reservation-System.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Reservation-System/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
