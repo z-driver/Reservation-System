@@ -2,9 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\code",
-    "\\code\\code",
-    "\\code\\code\\login"
+    "\\code\\login",
+    "\\dbo"
   ],
-  "SelectedNode": "\\code\\code\\login\\login.sln",
+  "SelectedNode": "\\code\\login\\login.sln",
   "PreviewInSolutionExplorer": false
 }
