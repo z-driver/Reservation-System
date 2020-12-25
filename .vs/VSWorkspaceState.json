@@ -3,8 +3,10 @@
     "",
     "\\code",
     "\\code\\login",
-    "\\dbo"
+    "\\dbo",
+    "\\Library-Reservation-master",
+    "\\obj"
   ],
-  "SelectedNode": "\\code\\login\\login.sln",
+  "SelectedNode": "\\Library-Reservation-master\\Library reservation.sln",
   "PreviewInSolutionExplorer": false
 }
