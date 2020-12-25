@@ -1,4 +1,4 @@
-﻿CREATE TABLE [dbo].[StudentLogin]
+﻿CREATE TABLE [dbo].[Student]
 (
 	[student_id] CHAR(10) NOT NULL PRIMARY KEY, 
     [password] NVARCHAR(50) NOT NULL,

@@ -14,3 +14,8 @@ D:\@华师\！课程\！专选\C#\Reservation-System\obj\Debug\net5.0\Reservatio
 D:\@华师\！课程\！专选\C#\Reservation-System\obj\Debug\net5.0\ref\Reservation-System.dll
 D:\@华师\！课程\！专选\C#\Reservation-System\obj\Debug\net5.0\Reservation-System.pdb
 D:\@华师\！课程\！专选\C#\Reservation-System\obj\Debug\net5.0\Reservation-System.genruntimeconfig.cache
+D:\@华师\！课程\！专选\C#\Reservation-System\obj\Debug\net5.0\login.appoint.resources
+D:\@华师\！课程\！专选\C#\Reservation-System\obj\Debug\net5.0\login.help.resources
+D:\@华师\！课程\！专选\C#\Reservation-System\obj\Debug\net5.0\login.personal.resources
+D:\@华师\！课程\！专选\C#\Reservation-System\obj\Debug\net5.0\Reservation_System.code.login.login.Properties.Resources.resources
+D:\@华师\！课程\！专选\C#\Reservation-System\obj\Debug\net5.0\Reservation-System.csproj.GenerateResource.cache
