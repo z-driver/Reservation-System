@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1259
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "login", "login\login.csproj", "{C447EBB5-66DA-4E27-8AED-5896AEC4A711}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "library", "login\library.csproj", "{C447EBB5-66DA-4E27-8AED-5896AEC4A711}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
